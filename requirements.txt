@@ -1,0 +1,4 @@
+django
+guincorn
+requests
+beautifulsoup4
